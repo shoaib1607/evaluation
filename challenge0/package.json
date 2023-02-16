@@ -1,0 +1,23 @@
+{
+  "name": "evaluation",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shoaib",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/tx": "^4.0.2",
+    "bip39": "^3.0.4",
+    "dotenv": "^16.0.3",
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^6.0.3",
+    "hdkey": "^2.1.0",
+    "web3": "^1.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
